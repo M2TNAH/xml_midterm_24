@@ -1,12 +1,14 @@
 # xml_midterm_24
 Midterm assignment for the XML course.
 
-#AFTER THE STORM COMES THE SUN#
-##Encoding the Exeter Book Riddles : Approaching the Whims of the Skies##
+# AFTER THE STORM COMES THE SUN ⛅
+## Encoding the Exeter Book Riddles : Approaching the Whims of the Skies ☁️
 
-###Overview of the project###
+### Overview of the project 🌐
 
-###The Exeter Book Riddles###
+### The Exeter Book Riddles 🎲
 
-###How to use this repository###
+### How to use this repository ❓
+
+### Further reading 🔖
 
