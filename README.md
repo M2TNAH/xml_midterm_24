@@ -31,8 +31,13 @@ This repository contains :
 * Browse through the XML template and DTD to discover the intended encoding strucutre.
 * Check the further reading below for more information on Old English riddles.
  
-## 🔖 Further reading
+## 🔖 Bibliography and further reading
+
+Tupper F. (1910). The Riddles of the Exeter Book. Ginn and Company.
 
 ## 📂 License
+
+The Old English poems in this project are in the public domain. They are taken from Frederick Tupper's 1910 edition of the Exeter Book Riddles, which is also in the public domain.
+
 This repository operates under an MIT License. This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, as long as you include the original copyright notice and this permission notice in any copy of the software.
 
