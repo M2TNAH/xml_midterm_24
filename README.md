@@ -1,10 +1,10 @@
 # xml_midterm_24
 Midterm assignment for the XML course.
 
-# AFTER THE STORM COMES THE SUN ⛅
+# 🌥️ AFTER THE STORM COMES THE SUN ⛅
 ## Encoding the _Exeter Book Riddles_ : Approaching the Whims of the Skies in Old English poetry ☁️
 
-### The Exeter Book Riddles 🎲
+## 🎲 The Exeter Book Riddles 
 
 The Exeter Book is a tenth-century codex containing a rich anthology of Old English literature. It is believed to have been given to Exeter Cathedral by Leofric, the first bishop of Exeter. Among its various components, the Exeter Book contains about ninety-four verse riddles in Old English. Several of these poetic texts offer an insight into the Old English approach to the sky, with perspectives ranging from the physical to the spiritual. The language of the poems suggests that they were recited out loud in early medieval England. In some cases, the object described in the riddle is given a voice and describes itself for the reader or audience. However, the Exeter Book Riddles never directly reveal the solutions to the enigmas. The date of composition of the riddles is unknown, but it certainly predates the composition of the Exeter Book, which contains evidence showing that the riddles were being copied from other manuscripts.
 
@@ -14,18 +14,25 @@ This abundance of metaphorical language and the precision with which alliterativ
 
 For the purpose of this project, I am using Tupper's 1910 edition of the _Exeter Book Riddles_.
 
-### Overview of the project 🌐
+## 🌐 Overview of the project 
 
 This project aims to encode six Old English Exeter Book riddles associated to early English perceptions of the sky or related imagery (the sun, the moon, heaven). It aims to outline the poetic structure of these texts and highlight the alliteration patterns which characterise Old English poetry.
 
-### Contents of this repository 🗃️
+## 🗃️ Contents of this repository 
 
 This repository contains :
 * Screenshots of the texts
 * A DTD file adapted from TEI guidelines to encode Old English riddles
 * An empty XML template validated against the DTD file
 
-### How to use this repository ❓
+### ❓ How to use this repository 
 
-### Further reading 🔖
+* Open the selected riddles shown in the .jpg files.
+* Browse through the XML template and DTD to discover the intended encoding strucutre.
+* Check the further reading below for more information on Old English riddles.
+ 
+### 🔖 Further reading
+
+### 📂 License
+This 
 
