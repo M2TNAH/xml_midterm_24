@@ -25,14 +25,14 @@ This repository contains :
 * A DTD file adapted from TEI guidelines to encode Old English riddles
 * An empty XML template validated against the DTD file
 
-### ❓ How to use this repository 
+## ❓ How to use this repository 
 
 * Open the selected riddles shown in the .jpg files.
 * Browse through the XML template and DTD to discover the intended encoding strucutre.
 * Check the further reading below for more information on Old English riddles.
  
-### 🔖 Further reading
+## 🔖 Further reading
 
-### 📂 License
+## 📂 License
 This 
 
