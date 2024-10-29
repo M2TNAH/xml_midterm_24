@@ -16,7 +16,7 @@ For the purpose of this project, I am using Tupper's 1910 edition of the _Exeter
 
 ## 🌐 Overview of the project 
 
-This project aims to encode six Old English Exeter Book riddles associated to early English perceptions of the sky or related imagery (the sun, the moon, heaven). It aims to outline the poetic structure of these texts and highlight the alliteration patterns which characterise Old English poetry.
+This project aims to encode six Old English Exeter Book riddles associated to early English perceptions of the sky or related imagery (the sun, the moon, heaven). It aims to outline the poetic structure of these texts and highlight the alliteration patterns which characterise Old English poetry. The XML encoding template is inspired by TEI guidelines but also introduces some custom tags.
 
 ⚠️ The titles given to the Riddles in this projet are artificial. They follow the numbering provided in Tupper's edition. For instance, the riddle presented as number 6 in Tupper's edition is encoded as 'Riddle 6'.
 
@@ -35,7 +35,11 @@ This repository contains :
  
 ## 🔖 Bibliography and further reading
 
-Tupper F. (1910). The Riddles of the Exeter Book. Ginn and Company.
+Tupper F. (1910). _The Riddles of the Exeter Book._ Ginn and Company.
+Bitterli, D. (2019). Exeter Book Riddle 95: “The Sun”, a New Solution. _Anglia_ (Tübingen), 137(4), p.612-638.
+Crossley-Holland, K., & Thistlethwaite, M. (1970). _Storm and other old English riddles_. Macmillan.
+Dale, C. (2017). _The natural world in the Exeter Book Riddles_. D. S. Brewer.
+Erhardtsiebold, E. V. (1949). The Old English Storm Riddles. _PMLA_ : _Publications of the Modern Language Association of America_, 64(4), 884–888.
 
 ## 📂 License
 
