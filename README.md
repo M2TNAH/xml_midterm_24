@@ -29,7 +29,7 @@ This repository contains :
 
 ## ❓ How to use this repository 
 
-* Open the selected riddles shown in the .jpg files.
+* Open the selected riddles shown in the .png files.
 * Browse through the XML template and DTD to discover the intended encoding strucutre.
 * Check the further reading below for more information on Old English riddles.
  
