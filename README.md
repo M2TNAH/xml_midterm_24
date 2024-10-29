@@ -2,7 +2,7 @@
 Midterm assignment for the XML course.
 
 # 🌥️ AFTER THE STORM COMES THE SUN ⛅
-## Encoding the _Exeter Book Riddles_ : Approaching the Whims of the Skies in Old English poetry ☁️
+## Encoding the _Exeter Book Riddles_ : The Whims of the Skies in Old English poetry ☁️
 
 ## 🎲 The Exeter Book Riddles 
 
