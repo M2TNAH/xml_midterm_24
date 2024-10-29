@@ -35,7 +35,7 @@ This repository contains :
  
 ## 🔖 Bibliography and further reading
 
-* Bitterli, D. (2019). Exeter Book Riddle 95: “The Sun”, a New Solution. _Anglia_ (Tübingen), 137(4), p.612-638.
+* Bitterli, D. (2019). Exeter Book Riddle 95: “The Sun”, a New Solution. _Anglia_ (Tübingen), 137(4), 612-638.
 * Crossley-Holland, K., & Thistlethwaite, M. (1970). _Storm and other old English riddles_. Macmillan.
 * Dale, C. (2017). _The natural world in the Exeter Book Riddles_. D. S. Brewer.
 * Erhardtsiebold, E. V. (1949). The Old English Storm Riddles. _PMLA_ : _Publications of the Modern Language Association of America_, 64(4), 884–888.
