@@ -20,6 +20,14 @@ This project aims to encode six Old English Exeter Book riddles associated to ea
 
 ⚠️ The titles given to the Riddles in this projet are artificial. They follow the numbering provided in Tupper's edition. For instance, the riddle presented as number 6 in Tupper's edition is encoded as 'Riddle 6'.
 
+The riddles used for this project are:
+* Riddle 2
+* Riddle 3
+* Riddle 4
+* Riddle 7
+* Riddle 30
+* Riddle 67
+
 ## 🗃️ Contents of this repository 
 
 This repository contains :
