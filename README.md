@@ -18,7 +18,7 @@ For the purpose of this project, I am using Tupper's 1910 edition of the _Exeter
 
 This project aims to encode six Old English Exeter Book riddles associated to early English perceptions of the sky or related imagery (the sun, the moon, heaven). It aims to outline the poetic structure of these texts and highlight the alliteration patterns which characterise Old English poetry. The XML encoding template is inspired by TEI guidelines but also introduces some custom tags.
 
-⚠️ The titles given to the Riddles in this projet are artificial. They follow the numbering provided in Tupper's edition. For instance, the riddle presented as number 6 in Tupper's edition is encoded as 'Riddle 6'.
+⚠️ The titles given to the Riddles in this projet are artificial. They follow the numbering provided in Tupper's edition. For instance, the riddle presented as number 2 in Tupper's edition will be encoded as 'Riddle 2'.
 
 The riddles used for this project are:
 * Riddle 2
