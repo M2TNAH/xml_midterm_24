@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE myAssignment SYSTEM "OE_riddles_DTD_updated.dtd">
+<myAssignment>
+    <header>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+                <author></author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor></distributor>
+                <date when="2024-10-30"></date>
+                <pubPlace></pubPlace>
+                <availability>
+                    <license type="http://creativecommons.org/publicdomain/mark/1.0/">
+                        This work is in the public domain.
+                    </license>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>               
+                <bibl>    
+                    <edition>
+                        <title type="book">
+                            <idno type ="isbn"></idno>
+                        </title>
+                    </edition>
+                    <ref type="ark" target="ark:/13960/t9959d18g"></ref>
+                    <!--artificial title given to the poem-->
+                    <poem_title type="poem" subtype="artificial"></poem_title>
+                    <!--pages where poem is found in the edition-->
+                    <note type="pages"></note>
+                    <!--number of lines in poem-->
+                    <note type="lines"></note>
+                    <lang></lang>
+                    <author></author>
+                    <editor></editor>
+                    <publisher></publisher>
+                    <incipit></incipit>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </header>
+    <poem>
+        <body>    
+                <l type="verse">
+                    <!-- first part of the line with tags for individual alliterating words, the type corresponds to the sound which alliterates -->
+                    <alliteration sound="a"></alliteration> <!-- example: the first word alliterating in a -->
+                    <alliteration sound="a"></alliteration> <!-- example: the second word alliterating in a -->
+                    <!-- segments to highlight words which highlight features of the sky -->
+                    <seg type="sky_lexical_field"></seg>
+                    <!-- caesura to respect the traditional (editorial) presentation of Old English poetry -->
+                    <milestone unit="caesura"/>
+                    <!-- same structure as above after the caesura -->
+                    <alliteration sound="b"></alliteration> <!-- example: the first word alliterating in b -->
+                    <alliteration sound="b"></alliteration> <!-- example: the second word alliterating in b -->
+                    <seg type="sky_lexical_field"></seg>
+                </l>
+                <l type="verse">
+                    <alliteration sound="a"></alliteration> 
+                    <alliteration sound="a"></alliteration> 
+                    <seg type="sky_lexical_field"></seg>
+                    <milestone unit="caesura"/>
+                    <alliteration sound="b"></alliteration> 
+                    <alliteration sound="b"></alliteration> 
+                    <seg type="sky_lexical_field"></seg>
+                </l>
+                <l type="verse">
+                    <alliteration sound="a"></alliteration> 
+                    <alliteration sound="a"></alliteration> 
+                    <seg type="sky_lexical_field"></seg>
+                    <milestone unit="caesura"/>
+                    <alliteration sound="b"></alliteration>
+                    <alliteration sound="b"></alliteration> 
+                    <seg type="sky_lexical_field"></seg>
+                </l>
+        </body>
+    </poem>
+</myAssignment>
