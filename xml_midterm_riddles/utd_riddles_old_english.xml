@@ -35,7 +35,7 @@
                     <author></author>
                     <editor></editor>
                     <publisher></publisher>
-                    <incipit></incipit>
+                    <incipit></incipit> <!-- beginning of the first line of the poem -->
                 </bibl>
             </sourceDesc>
         </fileDesc>
