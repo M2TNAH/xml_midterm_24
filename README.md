@@ -37,8 +37,8 @@ This repository contains :
 
 ## ❓ How to use this repository 
 
-* Open the selected riddles shown in the .png files in the extracts_xml file.
-* Browse through the XML template and DTD to discover the intended encoding strucutre.
+* Open the selected riddles shown in the .png files in the **extracts_xml** file.
+* Browse through the XML template and DTD to discover the intended encoding strucutre in the **xml_midterm_riddles** file.
 * Check the further reading below for more information on Old English riddles.
  
 ## 🔖 Bibliography and further reading
